@@ -1,0 +1,15 @@
+
+
+$HOME/.m2/settings.xml
+
+```xml
+<settings>
+        <servers>
+                <server>
+                        <id>github</id>                                                                                                                         
+                        <username>[GitHub username]</username>
+                        <password>[password]</password>
+                </server>
+        </servers>
+</settings>
+```
