@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.box.view</groupId>
+  <artifactId>box-view-client</artifactId>
+  <version>173ad02-15-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20151226.184139</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20151226184139</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>173ad02-15-20151226.184139-1</value>
+        <updated>20151226184139</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>173ad02-15-20151226.184139-1</value>
+        <updated>20151226184139</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>173ad02-15-20151226.184139-1</value>
+        <updated>20151226184139</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

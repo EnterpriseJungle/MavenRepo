@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.box.view</groupId>
+  <artifactId>box-view-client</artifactId>
+  <versioning>
+    <versions>
+      <version>173ad02-15-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20151226184139</lastUpdated>
+  </versioning>
+</metadata>
