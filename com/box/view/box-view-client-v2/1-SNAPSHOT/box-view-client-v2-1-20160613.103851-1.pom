@@ -4,7 +4,7 @@
     <groupId>com.box.view</groupId>
     <artifactId>box-view-client-v2</artifactId>
     <packaging>jar</packaging>
-    <version>1</version>
+    <version>1-SNAPSHOT</version>
     <name>box-view-client</name>
     <url>http://maven.apache.org</url>
     <dependencies>
