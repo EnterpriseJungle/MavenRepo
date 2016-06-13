@@ -2,29 +2,29 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.box.view</groupId>
   <artifactId>box-view-client-v2</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>173ad02-1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20160613.104548</timestamp>
+      <timestamp>20160613.105003</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20160613104548</lastUpdated>
+    <lastUpdated>20160613105003</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20160613.104548-1</value>
-        <updated>20160613104548</updated>
+        <value>173ad02-1-20160613.105003-1</value>
+        <updated>20160613105003</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20160613.104548-1</value>
-        <updated>20160613104548</updated>
+        <value>173ad02-1-20160613.105003-1</value>
+        <updated>20160613105003</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.0-20160613.104548-1</value>
-        <updated>20160613104548</updated>
+        <value>173ad02-1-20160613.105003-1</value>
+        <updated>20160613105003</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
