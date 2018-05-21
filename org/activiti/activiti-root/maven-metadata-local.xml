@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.activiti</groupId>
+  <artifactId>activiti-root</artifactId>
+  <versioning>
+    <versions>
+      <version>6.0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180521124629</lastUpdated>
+  </versioning>
+</metadata>
