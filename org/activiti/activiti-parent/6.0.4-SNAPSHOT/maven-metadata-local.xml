@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.activiti</groupId>
+  <artifactId>activiti-parent</artifactId>
+  <version>6.0.4-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20180523075845</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>6.0.4-SNAPSHOT</value>
+        <updated>20180523075845</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
